@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\ordertrackingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\ordertrackingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\ordertrackingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\ordertrackingwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|c:\\users\\lukasz\\source\\repos\\projekt\\projekt\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC45BF5D-A414-4096-B780-EC803B37FD09}|Projekt\\Projekt.csproj|solutionrelative:projekt\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Projekt\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\MainWindow.xaml",
+              "RelativeToolTip": "Projekt\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T13:08:21.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projekt\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Projekt\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA0wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:06:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projekt\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "Projekt\\OrderWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:38:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\Order.cs",
+              "RelativeDocumentMoniker": "Projekt\\Order.cs",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\Order.cs",
+              "RelativeToolTip": "Projekt\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:58:51.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderTrackingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderTrackingWindow.xaml",
+              "RelativeDocumentMoniker": "Projekt\\OrderTrackingWindow.xaml",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderTrackingWindow.xaml",
+              "RelativeToolTip": "Projekt\\OrderTrackingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T12:54:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderTrackingWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderTrackingWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projekt\\OrderTrackingWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderTrackingWindow.xaml.cs",
+              "RelativeToolTip": "Projekt\\OrderTrackingWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:54:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "Projekt\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Lukasz\\source\\repos\\Projekt\\Projekt\\OrderWindow.xaml",
+              "RelativeToolTip": "Projekt\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T11:38:30.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

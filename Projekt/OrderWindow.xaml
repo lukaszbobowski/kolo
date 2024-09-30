@@ -1,0 +1,23 @@
+﻿<Window x:Class="Projekt.OrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Zamów produkty" Height="550" Width="400">
+    <Grid>
+        <ListBox x:Name="ProductsListBox" HorizontalAlignment="Left" Height="200" Margin="10" VerticalAlignment="Top" Width="200" SelectionMode="Multiple">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" Margin="0,0,10,0"/>
+                        <TextBox x:Name="QuantityTextBox" Width="50"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Zamów" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top" Width="75" Click="OrderButton_Click"/>
+        <Button Content="Sprawdź zamówienia" HorizontalAlignment="Left" Margin="10,250,0,0" VerticalAlignment="Top" Width="120" Click="OrderProductsButton_Click"/>
+        <Label Content="Cena:" HorizontalAlignment="Left" Margin="10,270,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="TotalPriceLabel" Content="" HorizontalAlignment="Left" Margin="85,270,0,0" VerticalAlignment="Top"/>
+        <Label Content="Szczegóły:" HorizontalAlignment="Left" Margin="10,300,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="SummaryLabel" Content="" HorizontalAlignment="Left" Margin="85,300,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
